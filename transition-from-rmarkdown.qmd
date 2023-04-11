@@ -8,7 +8,7 @@ Here are some notes as we migrate RMarkdown sites and books.
 
 *TODO: translating R code chunks*
 
-## Bookdown to Quarto
+## Bookdown to Quarto 
 
 Converting a Bookdown book to Quarto is slightly more involved than converting a website. A book has chapters whose order must be defined, and likely has citations and [cross-refs](https://quarto.org/docs/books/book-crossrefs.html). Still, conversion is not that hard.
 
